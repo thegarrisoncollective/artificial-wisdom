@@ -38,6 +38,10 @@ Or use the full instruction file: [`artificial-wisdom.md`](artificial-wisdom.md)
 
 ---
 
+## Verified
+
+Tested across 4 LLMs on 7 prompts. The skill improves behavior in 24 of 28 comparisons. Biggest gains: risk awareness and taste. [Full evidence →](evidence.md)
+
 ## How It Works
 
 The framework runs silently. The user shouldn't see the machinery — they should feel better judgment.
