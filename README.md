@@ -2,7 +2,17 @@
 
 **A practical judgment layer for AI agents and human-AI workflows.**
 
-Artificial Wisdom is not a philosophy. It is not anti-AI. It is a lightweight skill pack that helps AI agents and assistants clarify intent, evaluate output quality, identify risks, apply restraint, and recommend better next actions.
+Artificial Wisdom is part of the Anchor Point Method — a three-layer framework for AI-assisted work:
+
+| Layer | What it does | APL Framework |
+|-------|-------------|---------------|
+| **Prompt Engineering** | Craft the instruction | [C.O.R.E.](https://anchorpointlabs.com) |
+| **Context Engineering** | Encode the knowledge | [Core Files](https://anchorpointlabs.com) |
+| **Agent Engineering** | Build the judgment | **Artificial Wisdom** ← You are here |
+
+C.O.R.E. teaches you how to talk to AI. Core Files teach you how to teach AI about your business. Artificial Wisdom teaches your AI how to think — when to act, when to pause, when to refuse.
+
+This repository is the agent engineering layer: a lightweight skill pack that helps AI agents clarify intent, evaluate output quality, identify risks, apply restraint, and recommend better next actions.
 
 ---
 
@@ -97,6 +107,19 @@ artificial-wisdom/
 - ❌ A claim that machines can be literally wise
 
 It is a **practice layer** — a discipline for using AI with better judgment.
+
+---
+
+## Part of a Larger Framework
+
+Artificial Wisdom assumes the agent already has context — your business, your constraints, your goals. For a structured method to encode that context into any AI system, see:
+
+- **[C.O.R.E. Prompt Engineering](https://anchorpointlabs.com)** — A four-stage framework (Context → Objective → Reasoning → Evaluation) for crafting precise, reliable AI instructions.
+- **[Core Files](https://anchorpointlabs.com)** — Five structured knowledge documents (C1–C5) that encode everything about a business so any LLM can understand it instantly.
+
+**Context without judgment is blind. Judgment without context is hollow. Together, they're a complete AI operating system.**
+
+→ [Anchor Point Labs](https://anchorpointlabs.com)
 
 ---
 

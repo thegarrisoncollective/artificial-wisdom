@@ -91,5 +91,10 @@ Artificial Wisdom is not a brake. It's steering.
 
 This principles document is intentionally short. For deeper exploration:
 
-- **Anchor Point Labs** — Courses applying the Anchor Point Method and Artificial Wisdom to real-world AI use.
-- **The original blueprint** — [`ArtificalWisdom.md`](../ArtificalWisdom.md) — the strategy document that inspired this repo.
+- **[C.O.R.E. Prompt Engineering](https://anchorpointlabs.com)** — The four-stage framework (Context → Objective → Reasoning → Evaluation) for crafting precise AI instructions. C.O.R.E. teaches you how to *talk* to AI.
+- **[Core Files](https://anchorpointlabs.com)** — Five structured knowledge documents (C1–C5) that encode everything about a business so any LLM can understand it instantly. Core Files teach you how to *teach* AI about your business.
+- **Artificial Wisdom** (this repository) — The judgment layer that teaches your AI how to *think* — triage, restraint, courage, and the smallest wise next action.
+
+**Instruct → Inform → Steer.** Three layers. One method.
+
+→ [Anchor Point Labs](https://anchorpointlabs.com)
