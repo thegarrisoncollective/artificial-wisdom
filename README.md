@@ -78,10 +78,13 @@ artificial-wisdom/
 │   ├── checklist.yaml            ← Machine-readable
 │   ├── rubric.md                 ← Output scoring reference
 │   └── restraint-gates.md        ← Restraint protocol reference
-└── examples/
-    ├── business-decision.md      ← High-stakes decision support
-    ├── automation-risk.md        ← Surveillance refusal case
-    └── when-not-to-use-ai.md     ← Grief, delegation, and taste
+├── examples/
+│   ├── business-decision.md      ← High-stakes decision support
+│   ├── automation-risk.md        ← Surveillance refusal case
+│   └── when-not-to-use-ai.md     ← Grief, delegation, and taste
+└── tests/
+    ├── test-prompts.md           ← 7 stress-test prompts
+    └── scoring-template.md       ← Evidence collection template
 ```
 
 ---
